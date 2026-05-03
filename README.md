@@ -50,6 +50,12 @@ I modelli pre-addestrati sono già presenti in `models/`, quindi la dashboard pu
 streamlit run app.py
 ```
 
+se da errore provare con
+
+```bash
+python -m streamlit run app.py
+```
+
 L'interfaccia è raggiungibile su `http://localhost:8501` e offre due modalità:
 
 - **Analisi singola**: predizione di una recensione con parole più influenti

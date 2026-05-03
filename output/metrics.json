@@ -1,0 +1,53 @@
+{
+  "dataset_size": 511,
+  "train_size": 408,
+  "test_size": 103,
+  "department": {
+    "best_params": {
+      "clf__C": "10.0",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "cv_f1_mean": 0.9409572058416422,
+    "test_accuracy": 0.883495145631068,
+    "test_f1_macro": 0.8837049219519635,
+    "baselines": {
+      "LogisticRegression": {
+        "f1_mean": 0.9361945969645017,
+        "f1_std": 0.030537863517219384
+      },
+      "MultinomialNB": {
+        "f1_mean": 0.9156366570777283,
+        "f1_std": 0.028152616575652975
+      },
+      "LinearSVC": {
+        "f1_mean": 0.943470387977466,
+        "f1_std": 0.027674651159579615
+      }
+    }
+  },
+  "sentiment": {
+    "best_params": {
+      "clf__C": "10.0",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "cv_f1_mean": 0.7927705829458985,
+    "test_accuracy": 0.8349514563106796,
+    "test_f1_macro": 0.8308702791461412,
+    "baselines": {
+      "LogisticRegression": {
+        "f1_mean": 0.7832824593567973,
+        "f1_std": 0.028996226578341052
+      },
+      "MultinomialNB": {
+        "f1_mean": 0.7067299599024541,
+        "f1_std": 0.046175126047422625
+      },
+      "LinearSVC": {
+        "f1_mean": 0.8009302712838698,
+        "f1_std": 0.03269178042403689
+      }
+    }
+  }
+}

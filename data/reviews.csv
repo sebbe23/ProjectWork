@@ -1,0 +1,512 @@
+id,title,body,department,sentiment
+1,Colazione da dieci e lode,"La colazione era ricchissima, cornetti caldi appena sfornati e cappuccino fatto come si deve.",F&B,positive
+2,Cena memorabile,"Menu curato e vini del territorio ben abbinati, il cameriere ci ha consigliato piatti perfetti.",F&B,positive
+3,Ristorante sopra le aspettative,"Primi piatti della tradizione fatti a mano, porzioni giuste e sapori genuini.",F&B,positive
+4,Buffet ottimo,"Grande varietà tra dolce e salato, tutto fresco e rinnovato più volte durante il servizio.",F&B,positive
+5,Chef bravissimo,"Lo chef è uscito in sala a spiegare i piatti, cortesia rara di questi tempi.",F&B,positive
+6,Cucina di livello,"Tagliatelle al tartufo indimenticabili, prezzi onesti per la qualità proposta.",F&B,positive
+7,Colazione dolce e salata,"Ottima scelta tra yogurt frutta uova e salumi locali, caffè espresso davvero buono.",F&B,positive
+8,Aperitivo in terrazza,"Stuzzichini freschi e cocktail preparati bene, ambiente rilassante al tramonto.",F&B,positive
+9,Ristorante consigliato,"Abbiamo cenato tre sere e ogni piatto è stato diverso e curato, complimenti alla brigata.",F&B,positive
+10,Dessert spettacolari,"Il tiramisù della casa è tra i migliori mai assaggiati, anche il semifreddo era squisito.",F&B,positive
+11,Pizzeria interna sorprendente,"Impasto ben lievitato e ingredienti di qualità, non ce lo aspettavamo in un hotel.",F&B,positive
+12,Cameriere attento,"Ragazzo molto gentile ci ha ricordato l allergia al glutine senza chiedere, grande professionalità.",F&B,positive
+13,Servizio rapido,Ordine preso subito e piatti arrivati caldi nel giro di pochi minuti.,F&B,positive
+14,Vini eccellenti,"Carta dei vini ragionata, sommelier preparato e disponibile a consigliare.",F&B,positive
+15,Cucina genuina,"Si sente che usano prodotti locali, le verdure erano saporitissime.",F&B,positive
+16,Pranzo in piscina leggero,"Insalatone fresche e piadine fatte al momento, perfette per la pausa pranzo.",F&B,positive
+17,Ristorante elegante e accogliente,"Tavoli ben distanziati, luce soffusa e portate presentate con cura.",F&B,positive
+18,Colazione abbondante e curata,"Anche per chi è celiaco c erano ottime alternative, ci siamo sentiti coccolati.",F&B,positive
+19,Pesce freschissimo,"Il branzino in crosta di sale era cotto alla perfezione, sapori puliti e piatti ben bilanciati.",F&B,positive
+20,Menu degustazione riuscito,"Sette portate pensate bene, nessun piatto debole, rapporto qualità prezzo azzeccato.",F&B,positive
+21,Brunch della domenica top,"Moltissime proposte calde e fredde, frutta tagliata al momento, spremute vere.",F&B,positive
+22,Cucina vegana sorprendente,"Non è facile trovare alternative veg così buone in un hotel, menzione speciale al risotto.",F&B,positive
+23,Pasticceria interna deliziosa,"Cornetti vuoti crema e cioccolato tutti fragranti, non è il solito forno industriale.",F&B,positive
+24,Cena romantica perfetta,"Tavolo con vista sul giardino, servizio discreto e piatti ricercati, candele incluse.",F&B,positive
+25,Staff di sala preparato,"Conoscono il menu a memoria e spiegano ogni ingrediente, ci siamo trovati benissimo.",F&B,positive
+26,Primi fatti in casa,"La pasta fresca si sente a distanza, ragù cotto come si deve, complimenti alla cucina.",F&B,positive
+27,Piatti ben presentati,"Impiattamenti da ristorante gourmet, anche l occhio vuole la sua parte e qui non delude.",F&B,positive
+28,Buffet sempre rifornito,"Non abbiamo mai trovato vassoi vuoti, turnover perfetto anche nelle ore di punta.",F&B,positive
+29,Caffetteria d autore,Espresso ristretto come piace a noi e dolci della casa che cambiano ogni giorno.,F&B,positive
+30,Ristorante gourmet a prezzi umani,"Stelle Michelin mancate forse per un soffio, rapporto qualità prezzo ottimo.",F&B,positive
+31,Sapori del territorio valorizzati,"Menu che racconta la regione piatto dopo piatto, esperienza enogastronomica vera.",F&B,positive
+32,Colazione continentale ben fatta,Nulla di estremamente originale ma tutto fresco e ben organizzato.,F&B,positive
+33,Servizio al tavolo impeccabile,"Nessuna attesa tra una portata e l altra, bicchieri sempre riforniti.",F&B,positive
+34,Angolo glutenfree curato,"Prodotti separati e chiaramente etichettati, chef sensibile al tema.",F&B,positive
+35,Bar hotel consigliato,"Barman creativo ha preparato un cocktail personalizzato per mia moglie, davvero bravo.",F&B,positive
+36,Pranzo leggero ma gustoso,"Insalata di farro con verdure arrostite era fantastica, ci siamo sentiti leggeri tutto il pomeriggio.",F&B,positive
+37,Cucina aperta tutto il giorno,"Utile per chi ha orari diversi, abbiamo cenato tardi senza problemi.",F&B,positive
+38,Scelta ampia per bambini,"Menu dedicato ai piccoli con piatti semplici ma fatti bene, non i soliti nuggets surgelati.",F&B,positive
+39,Pasticcere di talento,I suoi mignon di mezzanotte sono diventati un appuntamento fisso della vacanza.,F&B,positive
+40,Enoteca ben fornita,"Oltre 200 etichette in carta, anche al bicchiere, sommelier giovane ma preparato.",F&B,positive
+41,Cena a buffet con show cooking,"Lo chef cuoceva al momento gli spiedini di pesce, atmosfera divertente e cibo ottimo.",F&B,positive
+42,Angolo etnico apprezzato,"Sushi preparato al momento e dimsum fatti in casa, scelta inaspettata e di qualità.",F&B,positive
+43,Frutta fresca sempre disponibile,"Ciotole riempite in continuazione con frutta di stagione, piccolo dettaglio che ha fatto la differenza.",F&B,positive
+44,Cappuccino come in pasticceria,"Latte montato benissimo e disegno sulla schiuma curato, caffè di torrefattore locale.",F&B,positive
+45,Sala ristorante silenziosa,"Acustica studiata bene, niente rimbombi fastidiosi pur essendo piena.",F&B,positive
+46,Servizio gentile e sorridente,"Personale di sala sempre disponibile, si capisce che lavorano con il cuore.",F&B,positive
+47,Carta cocktail interessante,"Miscelazione classica e qualche sperimentazione riuscita, drink list ricca.",F&B,positive
+48,Colazione ricca e genuina,"Pane fatto dal forno del paese, marmellate artigianali e salumi locali.",F&B,positive
+49,Piatti del giorno azzeccati,"Ogni giorno una proposta diversa legata alla stagione, scelta sempre ispirata.",F&B,positive
+50,Ristorante con vista mare,"Atmosfera impagabile al tramonto, e anche i piatti erano all altezza della location.",F&B,positive
+51,Merenda pomeridiana gradita,"Tè caldo accompagnato da biscotti fatti in casa, un piacere rientrare dalla spiaggia.",F&B,positive
+52,Qualità della carne eccellente,"La tagliata era cotta perfettamente, carne di razza chianina, tenera e saporita.",F&B,positive
+53,Cena di compleanno indimenticabile,"Hanno preparato una torta a sorpresa senza che chiedessimo nulla, gesto bellissimo.",F&B,positive
+54,Servizio impeccabile a bordo piscina,"Ordinato un cocktail e arrivato al lettino in pochi minuti, cortesia esemplare.",F&B,positive
+55,Cucina sana ed equilibrata,"Molte opzioni vegetariane e integrali, per chi ha attenzione alla salute è il posto giusto.",F&B,positive
+56,Selezione formaggi notevole,"Carrello dei formaggi con accostamenti di miele e confetture, ottima conclusione di cena.",F&B,positive
+57,Pane fatto in casa,"Servono tre tipi di pane e grissini, impasti diversi e ben cotti.",F&B,positive
+58,Cucina regionale autentica,Finalmente un hotel che non serve i soliti piatti internazionali standardizzati.,F&B,positive
+59,Chef pasticcere straordinario,Il suo babà al rum è il motivo per cui torneremo sicuramente l anno prossimo.,F&B,positive
+60,Colazione con vista giardino,"Tavoli all aperto con fiori freschi, atmosfera rilassante per iniziare la giornata.",F&B,positive
+61,Servizio bar elegante,"Poltrone comode e luce soffusa, ideale per un dopocena tranquillo.",F&B,positive
+62,Pranzo di lavoro rapido ed efficiente,"Menu veloce a prezzo fisso, cibo dignitoso e tempi rispettati.",F&B,positive
+63,Pesce locale a km zero,Si capisce dalla freschezza che arriva direttamente dal porto vicino.,F&B,positive
+64,Sala colazioni luminosa e ordinata,"Disposizione del buffet logica e ben segnalata, mai creato confusione.",F&B,positive
+65,Personale gentile al ristorante,"Camerieri sorridenti che ti accolgono con il nome, bel modo di iniziare la serata.",F&B,positive
+66,Pizza napoletana autentica,"Forno a legna vero e impasto a lunga lievitazione, sapori decisi come piace a noi.",F&B,positive
+67,Spezie e aromi usati con maestria,"I piatti sono profumatissimi, la cucina sa ciò che fa.",F&B,positive
+68,Scelta tè e tisane eccellente,"Oltre venti varietà tra cui scegliere, anche tisane particolari, piccolo lusso.",F&B,positive
+69,Cena tipica della tradizione,"Finalmente gli gnocchi come li faceva mia nonna, bravi in cucina.",F&B,positive
+70,Gelato fatto in casa buonissimo,"Gusti classici e qualche sperimentazione azzeccata, pistacchio da urlo.",F&B,positive
+71,Camera pulitissima,"Ogni giorno pulizie impeccabili, bagno profumato e lenzuola cambiate regolarmente.",Housekeeping,positive
+72,Pulizia sopra le aspettative,"Non ho mai visto una stanza d albergo così in ordine, complimenti alle cameriere ai piani.",Housekeeping,positive
+73,Stanza impeccabile,"Tutto al posto giusto, doccia brillante, tappeti aspirati ogni mattina.",Housekeeping,positive
+74,Servizio ai piani attento,"Le ragazze delle pulizie sono gentili e professionali, sempre disponibili.",Housekeeping,positive
+75,Biancheria freschissima,"Lenzuola stirate e profumate, asciugamani morbidi e in abbondanza.",Housekeeping,positive
+76,Camera in perfetto ordine,Al rientro dalla giornata trovavamo sempre tutto sistemato con cura.,Housekeeping,positive
+77,Pulizia quotidiana eccellente,"Perfino i bicchieri vengono sostituiti ogni giorno, attenzione rara.",Housekeeping,positive
+78,Bagno splendente,"Sanitari sempre puliti e lucidi, nessun segno di calcare, mai capitato prima.",Housekeeping,positive
+79,Governante meravigliosa,La signora che si occupava del nostro piano era una garanzia di ordine.,Housekeeping,positive
+80,Pulizie minuziose,Ho notato che pulivano anche dietro i comodini e sotto il letto.,Housekeeping,positive
+81,Stanza fresca e profumata,"All ingresso si sentiva un leggero profumo di lavanda, mai odore di chiuso.",Housekeeping,positive
+82,Cura dei dettagli,"Gli asciugamani erano piegati a fiore ogni giorno, tocco carino.",Housekeeping,positive
+83,Cambio biancheria puntuale,"Ogni tre giorni cambio lenzuola senza che chiedessimo nulla, tutto fresco.",Housekeeping,positive
+84,Servizio ai piani silenzioso,"Non hanno mai disturbato, sanno quando entrare e quando aspettare.",Housekeeping,positive
+85,Pulizie approfondite,"Hanno anche pulito sotto i letti e dietro i termosifoni, professionalità vera.",Housekeeping,positive
+86,Camera sempre in ordine,"Si vedeva che facevano tutto con calma e precisione, non frettolosamente.",Housekeeping,positive
+87,Bagno disinfettato bene,"Piastrelle splendenti, rubinetteria brillante, zero muffa anche negli angoli.",Housekeeping,positive
+88,Pulizie regolari e discrete,Entravano quando uscivamo e non ci hanno mai disturbato il riposo pomeridiano.,Housekeeping,positive
+89,Federe sempre pulite,"Cambiate senza bisogno di chiederlo, tessuto morbido e profumato.",Housekeeping,positive
+90,Cameriera ai piani eccezionale,Signora cortese che ci ha anche portato asciugamani extra senza problemi.,Housekeeping,positive
+91,Stanza spolverata ogni giorno,"Zero polvere anche sui ripiani alti, ogni superficie igienizzata bene.",Housekeeping,positive
+92,Ambiente sano e pulito,"Materassi nuovi e senza odore, cuscini di qualità e federe fresche.",Housekeeping,positive
+93,Ordine impeccabile al rientro,"Tutte le nostre cose leggermente sistemate senza invadere, cortesia fine.",Housekeeping,positive
+94,Pulizia del bagno notevole,"Doccia pulita a fondo ogni mattina, nessun capello o traccia degli ospiti precedenti.",Housekeeping,positive
+95,Servizio governante efficiente,"Risolvono ogni problema in tempi rapidi, sostituita tenda rotta in mezz ora.",Housekeeping,positive
+96,Tappeti sempre aspirati,"Ogni giorno passano con l aspirapolvere, pavimenti davvero puliti.",Housekeeping,positive
+97,Asciugamani morbidi e bianchi,"Sembrano nuovi ogni volta, nessuna macchia residua, bucato professionale.",Housekeeping,positive
+98,Pulizie ben organizzate,"Hanno un sistema che funziona, ogni giorno la stanza è perfetta alla stessa ora.",Housekeeping,positive
+99,Stanza sanificata con cura,"Dopo il covid hanno alzato gli standard e si nota, tutto igienizzato.",Housekeeping,positive
+100,Cambio biancheria giornaliero,"Se richiesto cambiano tutto ogni giorno, asciugamani sempre freschi.",Housekeeping,positive
+101,Cortesia delle cameriere,"Signora simpatica ci chiedeva sempre se andava tutto bene, umanità vera.",Housekeeping,positive
+102,Stanza aerata al mattino,"Aprono la finestra durante le pulizie, si respira bene tutto il giorno.",Housekeeping,positive
+103,Dettagli curati nelle pulizie,"Cioccolatino sul cuscino e fiore fresco sul tavolo, piccoli gesti apprezzati.",Housekeeping,positive
+104,Pulizia profonda settimanale,"Una volta a settimana pulizia extra approfondita, ottima prassi.",Housekeeping,positive
+105,Bagno sempre asciutto,"Hanno un sistema di asciugatura delle pareti che funziona davvero, niente muffa.",Housekeeping,positive
+106,Linee vasca impeccabili,"Ho controllato perché di solito sono il punto critico, erano perfette.",Housekeeping,positive
+107,Vetri e specchi brillanti,"Pulizia senza aloni, anche gli specchi del bagno sempre nitidi.",Housekeeping,positive
+108,Ordine delle stanze ammirevole,"Maid service che lavora con criterio, non lascia mai nulla fuori posto.",Housekeeping,positive
+109,Pulizie mattutine puntuali,"Alle dieci e trenta la stanza era già in ordine, perfetto per il rientro pomeridiano.",Housekeeping,positive
+110,Profumo di pulito al rientro,"Ogni pomeriggio aprire la porta era un piacere, ambiente sempre fresco.",Housekeeping,positive
+111,Cura del dettaglio igienico,"Carta igienica sempre ripiegata a punta, bicchieri coperti, standard alti.",Housekeeping,positive
+112,Cuscini extra forniti,"Chiesti due cuscini in più e portati in dieci minuti, servizio rapido.",Housekeeping,positive
+113,Servizio impeccabile dalla governante,Signora con quindici anni di esperienza si nota la professionalità.,Housekeeping,positive
+114,Stanze sempre pronte in orario,Arrivo alle quindici e trovata camera già pulita e in ordine.,Housekeeping,positive
+115,Pulizia dell area comune ottima,"Corridoi e scale sempre impeccabili, staff attento anche alle aree condivise.",Housekeeping,positive
+116,Sanificazione seria,"Usano prodotti professionali e si vede, ambienti realmente igienizzati.",Housekeeping,positive
+117,Moquette sempre pulita,In un hotel vecchio stile sarebbe facile trascurare ma qui zero macchie.,Housekeeping,positive
+118,Cura particolare per gli allergici,"Cuscini antiacaro su richiesta, prodotti senza profumo, attenzione apprezzata.",Housekeeping,positive
+119,Ordine al ritorno dalle escursioni,Trovare sempre la stanza pronta è un lusso che aiuta a rilassarsi.,Housekeeping,positive
+120,Biancheria di qualità,"Cotone morbido e resistente, non le solite lenzuola sottili da hotel economico.",Housekeeping,positive
+121,Pulizie rispettose dei nostri effetti,"Hanno sempre lasciato le nostre cose dove le avevamo messe, rispetto totale.",Housekeeping,positive
+122,Piccoli dettagli che fanno la differenza,"Le ciabatte erano sempre allineate perfettamente, carino.",Housekeeping,positive
+123,Stanza profumata di fresco,"Usano deodoranti d ambiente delicati, mai invadenti.",Housekeeping,positive
+124,Pulizia dei vetri notevole,"Anche la finestra panoramica era sempre perfettamente pulita, panorama cristallino.",Housekeeping,positive
+125,Servizio ai piani discretissimo,"Mai sentito rumori di carrelli o cameriere, lavoro silenzioso e professionale.",Housekeeping,positive
+126,Pulizie serie e approfondite,"Si capisce che lo staff è ben formato, non fanno le cose tanto per farle.",Housekeeping,positive
+127,Asciugamani cambiati a richiesta,"Basta lasciarli a terra e vengono sostituiti, sistema ecologico e pratico.",Housekeeping,positive
+128,Bagno igienizzato a fondo,"Anche le fughe tra le piastrelle erano impeccabili, cura ossessiva.",Housekeeping,positive
+129,Stanza in ordine dopo ogni pulizia,"Mai trovato nulla fuori posto, lavoro sempre fatto a regola d arte.",Housekeeping,positive
+130,Personale ai piani davvero gentile,"Oltre a fare bene il loro lavoro, salutano sempre con il sorriso.",Housekeeping,positive
+131,Cameriera attenta alle esigenze,Avevamo chiesto coperte extra e le ha portate prima ancora che lo richiedessimo al pomeriggio.,Housekeeping,positive
+132,Pulizia con prodotti ecologici,"Si sente che usano detergenti delicati e biodegradabili, apprezzato.",Housekeeping,positive
+133,Governante di grande esperienza,"Si occupa di tutto con professionalità, risolve ogni problema al volo.",Housekeeping,positive
+134,Stanza sempre rifornita,"Acqua bottiglie caffè bustine té, nulla mai esaurito, rifornimento giornaliero.",Housekeeping,positive
+135,Ordine perfetto del bagno,"Anche dopo averlo usato, tornavamo e trovavamo tutto come nuovo.",Housekeeping,positive
+136,Pulizia davvero professionale,"Nessuna macchia sospetta, niente capelli nello scarico, cose che normalmente ti aspetteresti.",Housekeeping,positive
+137,Cortesia e pulizia al top,"Combinazione vincente delle cameriere ai piani, complimenti davvero.",Housekeeping,positive
+138,Cambio asciugamani sostenibile,"Cartello con opzione eco e rispettata la richiesta, bene per l ambiente.",Housekeeping,positive
+139,Pulizie finite sempre per mezzogiorno,"Organizzazione impeccabile, mai rientrati a mezz ora di pulizie in corso.",Housekeeping,positive
+140,Camere sempre odoranti di fresco,"Lavanderia interna sicuramente curata, la biancheria lo dimostra.",Housekeeping,positive
+141,Standard igienico elevatissimo,"Per stare in ordine serve metodo e qui lo hanno, ogni dettaglio cura.",Housekeeping,positive
+142,Check in velocissimo,Appena arrivati ci hanno fatto accomodare e dato le chiavi in meno di cinque minuti.,Reception,positive
+143,Reception disponibile 24 ore,Anche alle tre di notte abbiamo trovato qualcuno gentile per un cambio stanza.,Reception,positive
+144,Accoglienza calorosa,La signora alla reception ci ha offerto un caffè mentre compilavamo i moduli.,Reception,positive
+145,Staff multilingue,"Parlano italiano inglese francese e tedesco, zero problemi di comunicazione.",Reception,positive
+146,Informazioni turistiche preziose,"Ci hanno consigliato ristoranti e escursioni fuori dai percorsi classici, ottimi spunti.",Reception,positive
+147,Check out rapido,"Poche firme e via, nessuna coda nemmeno in alta stagione.",Reception,positive
+148,Reception sempre presidiata,"A qualsiasi ora c era qualcuno pronto ad aiutare, servizio efficiente.",Reception,positive
+149,Personale alla reception cortese,"Ragazzi giovani ma molto professionali, sapevano gestire ogni situazione.",Reception,positive
+150,Prenotazione gestita perfettamente,"Ho cambiato date tre volte senza alcun problema, flessibilità ammirevole.",Reception,positive
+151,Welcome drink offerto,"All arrivo ci hanno offerto un prosecco freddo, bel modo di iniziare la vacanza.",Reception,positive
+152,Servizio concierge di livello,"Prenotato ristoranti e taxi in un attimo, conoscono il territorio a menadito.",Reception,positive
+153,Upgrade gratuito inaspettato,"All arrivo ci hanno assegnato una junior suite senza sovrapprezzo, sorpresa gradita.",Reception,positive
+154,Accoglienza familiare,"Ci siamo sentiti a casa dal primo minuto, staff che ricorda i nomi.",Reception,positive
+155,Check in anticipato concesso,"Arrivati alle dieci del mattino e ci hanno fatto entrare in camera subito, gentilezza rara.",Reception,positive
+156,Reception con navetta aeroporto,"Servizio gratuito ben organizzato, navetta puntualissima e autista simpatico.",Reception,positive
+157,Personale gentile e sorridente,"Sempre pronti a rispondere ai dubbi, nessuna domanda stupida per loro.",Reception,positive
+158,Prenotazione ristoranti dall hotel,"Ci hanno prenotato anche ristoranti particolari in centro, ottima rete di contatti.",Reception,positive
+159,Parcheggio custodito gestito dalla reception,"Valet parking efficiente, auto sempre pronta in cinque minuti.",Reception,positive
+160,Consigli locali azzeccati,"Ci hanno indicato una spiaggia nascosta bellissima, perfetta dritta.",Reception,positive
+161,Servizio di sveglia puntuale,"Ci hanno chiamato all orario esatto richiesto, senza insistere troppo.",Reception,positive
+162,Staff della reception professionale,"Risolvono tutto in un attimo, efficienza anglosassone.",Reception,positive
+163,Accoglienza a cinque stelle,L hotel è a quattro stelle ma l accoglienza merita le cinque.,Reception,positive
+164,Informazioni mezzi pubblici precise,Mappa con orari bus e metro fornita con spiegazioni chiare.,Reception,positive
+165,Reception centrale e comoda,Posizione strategica dell hotel con reception che sa dare indicazioni precise.,Reception,positive
+166,Prenotazione escursioni facilissima,"Ci hanno organizzato una gita in barca in pochi minuti, partner locali affidabili.",Reception,positive
+167,Check in con sorriso,"Arrivati stanchi dopo otto ore di auto, l accoglienza ci ha tirato subito su.",Reception,positive
+168,Reception aperta 24 su 24,"Servizio sempre attivo, anche per portare acqua calda in camera la notte.",Reception,positive
+169,Staff con conoscenza del territorio,"Sembravano autentiche guide turistiche, suggerimenti preziosi.",Reception,positive
+170,Cortesia dal primo all ultimo minuto,Dal check in al check out sempre gentili e disponibili.,Reception,positive
+171,Reception elegante e accogliente,Ambiente curato con divani comodi per aspettare in attesa.,Reception,positive
+172,Personale attento alle esigenze,Avevamo bisogno di un farmaco e ce l hanno procurato senza problemi.,Reception,positive
+173,Servizio di custodia bagagli gratuito,"Lasciati in reception al mattino del check out, ritirati comodamente nel pomeriggio.",Reception,positive
+174,Receptionist conosce gli ospiti,"Al terzo giorno ci chiamava per nome e ricordava le preferenze, tocco speciale.",Reception,positive
+175,Efficienza amministrativa,"Fattura preparata in un minuto, già divisa come richiesto, senza errori.",Reception,positive
+176,Reception moderna e funzionale,"Sistema informatico rapido, nessuna attesa anche con molte persone da gestire.",Reception,positive
+177,Assistenza medica organizzata,"Malato di notte, ci hanno chiamato un medico convenzionato in trenta minuti.",Reception,positive
+178,Flessibilità negli orari,"Check out ritardato concesso senza alcuna maggiorazione, gentilezza ammirevole.",Reception,positive
+179,Personale della reception preparatissimo,"Rispondono a qualsiasi domanda con competenza, mai imbarazzati.",Reception,positive
+180,Accoglienza anche per gli animali,"Amici pet friendly davvero, ciotole e cuccia in camera, cane coccolato.",Reception,positive
+181,Servizio taxi prenotato immediatamente,"Chiamato e arrivato in due minuti, reception super efficiente.",Reception,positive
+182,Check out via whatsapp,"Opzione digitale comoda per chi ha fretta, procedura rapidissima.",Reception,positive
+183,Receptionist consigli ottimi,"Ci hanno suggerito un ottimo ristorante fuori città, scelta azzeccata.",Reception,positive
+184,Cordialità dell accoglienza,"Il direttore stesso è venuto a salutare al check in, attenzione rara.",Reception,positive
+185,Mappa personalizzata della città,"Ci hanno segnato i posti da vedere e dove mangiare, utilissima.",Reception,positive
+186,Servizio efficiente anche in alta stagione,Anche con l hotel pieno non c erano mai file al banco.,Reception,positive
+187,Accoglienza italiana vera,"Calda, sorridente, fatta di persone che amano davvero il loro lavoro.",Reception,positive
+188,Comunicazione pre arrivo eccellente,Hanno inviato email dettagliate con tutte le info utili prima del check in.,Reception,positive
+189,Dettagli curati dell accoglienza,Fiori freschi alla reception e bicchiere d acqua agli ospiti in attesa.,Reception,positive
+190,Reception efficiente con gentilezza,"Rapidi senza essere freddi, velocità con sorriso, combinazione rara.",Reception,positive
+191,Check in personalizzato per famiglie,Ci hanno fornito culla scaldabiberon e sterilizzatore senza chiederlo.,Reception,positive
+192,Prenotazione transfer impeccabile,"Autista puntuale, auto pulita, prezzo onesto, tutto perfetto.",Reception,positive
+193,Personale sensibile alle esigenze,Abbiamo una bambina piccola e ci hanno trattato con tantissima cura.,Reception,positive
+194,Servizio di receptionist esperto,"Signora con venti anni di esperienza nel settore, si vede la differenza.",Reception,positive
+195,Accoglienza al top per la luna di miele,Cesto di frutta champagne e rose in camera senza averlo chiesto.,Reception,positive
+196,Reception ben illuminata e curata,Anche l estetica conta e qui hanno fatto le cose per bene.,Reception,positive
+197,Receptionist cortese al telefono,Chiamato per informazioni e trattato con gentilezza anche al telefono.,Reception,positive
+198,Efficienza nella gestione del gruppo,Eravamo quindici amici e hanno gestito tutto senza un intoppo.,Reception,positive
+199,Staff pronto a risolvere ogni problema,Ogni piccolo inconveniente gestito in tempi rapidissimi.,Reception,positive
+200,Ricevuti come vecchi amici,"Al ritorno dopo due anni si ricordavano ancora di noi, incredibile.",Reception,positive
+201,Assistenza per itinerari personalizzati,"Ci hanno costruito un tour della zona su misura, grande valore aggiunto.",Reception,positive
+202,Check in con rose per l anniversario,"Attenzione speciale non richiesta per il nostro anniversario, commoventi.",Reception,positive
+203,Reception pronta a ogni richiesta,"Qualsiasi cosa servisse arrivava in un baleno, servizio di livello.",Reception,positive
+204,Prenotazioni ristoranti efficientissime,Ci hanno prenotato anche ristoranti famosi quasi impossibili da trovare.,Reception,positive
+205,Personale reception attento ai dettagli,"Notavano tutto, perfino che ci piaceva il caffè al volo al mattino.",Reception,positive
+206,Accoglienza serale calorosa,Arrivati tardi e stanchi ci hanno portato tè e biscotti in camera.,Reception,positive
+207,Reception organizzata magistralmente,"Sistema efficiente, zero attese, professionalità visibile.",Reception,positive
+208,Prenotazione modificata senza problemi,Ho cambiato nomi ospiti tre giorni prima senza alcuna difficoltà.,Reception,positive
+209,Check in automatico funzionante,Il totem di self check in funziona ma c era anche personale per assistenza.,Reception,positive
+210,Receptionist come una guida turistica,"Conoscono tutto, dai musei ai mercatini di quartiere, preparatissimi.",Reception,positive
+211,Cordialità dell intero staff di front office,Dal direttore ai facchini tutti cortesi e disponibili.,Reception,positive
+212,Colazione deludente,"Cornetti congelati appena scongelati, caffè annacquato e succhi di arancia in cartone.",F&B,negative
+213,Cena scadente,"Piatti scarsi, sapori piatti, prezzi alti per la qualità offerta davvero bassa.",F&B,negative
+214,Ristorante da evitare,"Pesce non fresco e pasta scotta, non ci torneremo mai più.",F&B,negative
+215,Buffet sempre vuoto,"Quando arrivavamo era tutto finito, nessuno ricaricava i vassoi, disorganizzazione totale.",F&B,negative
+216,Servizio lentissimo al ristorante,"Un ora per i primi, due per i secondi, cena interminabile e cibo freddo.",F&B,negative
+217,Cucina sciatta,"Insalate appassite, pasta collosa, carne gommosa, impossibile da mangiare.",F&B,negative
+218,Colazione scarsa e triste,"Due cornetti secchi e fette biscottate industriali, niente di fresco.",F&B,negative
+219,Chef distratto,"Hanno sbagliato ordine tre volte, mandato indietro piatti non richiesti.",F&B,negative
+220,Cameriere scortese,"Rispondeva in malo modo, sospirava a ogni richiesta, atteggiamento inaccettabile.",F&B,negative
+221,Pizza bruciata,"Bordo carbonizzato e centro crudo, impossibile farla così male, impasto industriale.",F&B,negative
+222,Vini conservati male,"Vino rosso servito bollente, bianco caldo, cantina non climatizzata, disastro.",F&B,negative
+223,Qualità carne pessima,"Filetto duro come una suola, sapore di freezer, non la servirei nemmeno al cane.",F&B,negative
+224,Dolci dal gusto strano,"Tiramisù con sapore di plastica, non capisco cosa ci abbiano messo dentro.",F&B,negative
+225,Menu ridotto e noioso,"Sempre le stesse tre opzioni per una settimana, zero varietà zero fantasia.",F&B,negative
+226,Ristorante sporco,"Tavolo appiccicoso, posate macchiate, ambiente non all altezza di un quattro stelle.",F&B,negative
+227,Servizio inesistente,"Chiamati tre volte, nessuno è venuto, abbiamo dovuto alzarci per avere il conto.",F&B,negative
+228,Pasta scotta,"Spaghetti una poltiglia, conditi con sugo evidentemente riscaldato più volte.",F&B,negative
+229,Pesce congelato spacciato per fresco,"Consistenza della spugna, sapore praticamente assente, vergognoso.",F&B,negative
+230,Porzioni ridicole per il prezzo,"Pagato quaranta euro un piatto da tre bocconi, rapporto vergognoso.",F&B,negative
+231,Cucina non pulita,"Dalla sala si vedeva la cucina, stoviglie accatastate, livello igienico preoccupante.",F&B,negative
+232,Camerieri incompetenti,"Non conoscevano il menu, non sapevano consigliare nulla, confusi anche sugli ingredienti.",F&B,negative
+233,Attesa biblica tra le portate,"Quaranta minuti tra un piatto e l altro, orario della cena impossibile.",F&B,negative
+234,Vino dal sapore acetato,"Bottiglia ovviamente vecchia, quando lo abbiamo segnalato ci hanno detto che era normale.",F&B,negative
+235,Dolce industriale,"Tiramisù preso al supermercato, senza nemmeno toglierlo dalla confezione di plastica.",F&B,negative
+236,Piatti freddi,"Arrivati tiepidi dalla cucina, carne completamente raffreddata, lamentela ignorata.",F&B,negative
+237,Cena mediocre a prezzo alto,"Ottantacinque euro a testa per un pasto da trattoria di provincia, assurdo.",F&B,negative
+238,Colazione ridotta all osso,"Tre tipi di cornetti industriali e caffè da macchinetta, inaccettabile.",F&B,negative
+239,Buffet pescato a tempo scaduto,"Alimenti lasciati fuori per ore, caldi di temperatura ambientale, igiene zero.",F&B,negative
+240,Cameriera maleducata,"Gettava i piatti sul tavolo, rispondeva piccata, umore nero evidente.",F&B,negative
+241,Frutta non fresca,"Mele e banane ammaccate, ananas con macchie marroni, sembrava frutta avanzata.",F&B,negative
+242,Caffè imbevibile,"Sapore di bruciato, acqua del rubinetto e polvere vecchia, vergognoso per un hotel.",F&B,negative
+243,Cucina che usa ingredienti scadenti,"Si capiva dalla prima forchettata, prosciutto riempito di acqua, formaggio plasticoso.",F&B,negative
+244,Prezzo alto e qualità bassa,"Carta dei prezzi da Michelin, cibo da fast food, rapporto inaccettabile.",F&B,negative
+245,Pane raffermo,"Servito pane del giorno prima evidentemente, durezza imbarazzante.",F&B,negative
+246,Piatto del giorno immangiabile,"Lasagna bruciata sopra e fredda dentro, abbiamo mandato indietro e pagato lo stesso.",F&B,negative
+247,Ristorante caotico e rumoroso,"Acustica pessima, vicino alla cucina si sentivano le urla dello chef, disagio continuo.",F&B,negative
+248,Pesce puzzolente,"Branzino con odore sospetto, non abbiamo nemmeno assaggiato, ristorante in difficoltà.",F&B,negative
+249,Bar dell hotel deserto per motivi ovvi,"Cocktail dosati con il contagocce, barman senza voglia di lavorare.",F&B,negative
+250,Colazione che finisce alle nove,"Chi dorme un po di più salta il pasto, orari da caserma per un hotel di vacanza.",F&B,negative
+251,Cena disastrosa con prezzi pessimi,"Il più brutto pasto mai fatto in hotel in trent anni di viaggi, vero record negativo.",F&B,negative
+252,Cucina lenta e imprecisa,"Tre ordini sbagliati su cinque, attesa infinita, scuse inesistenti.",F&B,negative
+253,Qualità ingredienti al minimo,"Verdure lesse dal sapore di acqua, salumi del discount, formaggi di basso livello.",F&B,negative
+254,Porzioni offensive,"Piatto unico con due fettine di carne e cinque patatine, cifra da ristorante stellato.",F&B,negative
+255,Insetti nei piatti,"Un moscerino nell insalata e un ape nello zucchero, situazione igienica da incubo.",F&B,negative
+256,Bar spento,"Niente atmosfera niente musica niente clienti, capisco perché evitano tutti il locale interno.",F&B,negative
+257,Servizio in camera mai arrivato,"Ordinato alle otto arrivato alle dieci freddo, chiamato tre volte senza risposta.",F&B,negative
+258,Gelato industriale spacciato per artigianale,"Si capiva al primo assaggio, tutto il contrario di quanto promesso.",F&B,negative
+259,Piatto di pasta scotta e fredda,"Doppia sconfitta contemporanea, non pensavo fosse possibile, talento al contrario.",F&B,negative
+260,Colazione senza pane fresco,"Solo fette biscottate e cracker, il forno dell hotel è evidentemente chiuso.",F&B,negative
+261,Cucina che non rispetta le allergie,"Avvisati del glutine, servito piatto contaminato, grave errore di cucina.",F&B,negative
+262,Ristorante chiuso quando serve,"Rientrato tardi dalla spiaggia, cucina chiusa alle venti e trenta, soluzione zero.",F&B,negative
+263,Pasticcere assente,"Dolci comprati al supermercato e rivenduti a prezzo alto, una presa in giro.",F&B,negative
+264,Servizio distratto e disinteressato,"Camerieri chiacchierano tra loro invece di servire i tavoli, vergognoso.",F&B,negative
+265,Cucina insipida,"Tutto senza sale, senza pepe, senza amore, insapore totale.",F&B,negative
+266,Tavolo sporco al nostro arrivo,"Briciole e bicchieri usati dal tavolo precedente, hanno dovuto rifare tutto davanti a noi.",F&B,negative
+267,Acqua del rubinetto fatta pagare come minerale,"Trucchetto meschino, ci siamo accorti solo leggendo il conto.",F&B,negative
+268,Cena fredda,Doppio sconto meritato per la pasta fredda e la bistecca raffreddata.,F&B,negative
+269,Buffet poco curato,"Stesso cibo per tre giorni consecutivi, evidente riutilizzo delle rimanenze.",F&B,negative
+270,Carne dura e stopposa,"Cottura sbagliata, scelta ingredienti pessima, piatto rovinato a priori.",F&B,negative
+271,Prezzo della carta dei vini vergognoso,"Bottiglia da supermercato a sessanta euro, speculazione evidente.",F&B,negative
+272,Servizio snob e supponente,"Camerieri che guardano dall alto in basso, atteggiamento offensivo senza motivo.",F&B,negative
+273,Insalata con foglie appassite,"Direttamente dal frigorifero della settimana scorsa, colori spenti e foglie molli.",F&B,negative
+274,Cucina scoperta completamente inadeguata,"Vista sulla cucina che mostra una scena da incubo, meglio non vedere.",F&B,negative
+275,Pane duro come un sasso,"Servito con una settimana di ritardo rispetto alla cottura, impossibile masticarlo.",F&B,negative
+276,Colazione cinese per turisti,"Zero autenticità, tutto industriale, piatti pensati per non sbagliare ma sbagliati comunque.",F&B,negative
+277,Pessimo rapporto qualità prezzo,"Mille euro a settimana e nemmeno un pasto decente, non torneremo mai.",F&B,negative
+278,Bambini ignorati al ristorante,"Nessun menu per loro, nessuna attenzione alle loro esigenze, famiglia trascurata.",F&B,negative
+279,Dolce finito alle venti,"Finiti i dolci del buffet già a metà servizio, zero previsione di riassortimento.",F&B,negative
+280,Cena conclusa con problema allo stomaco,"Sospetto ingrediente guasto, serata rovinata e vacanza a rischio.",F&B,negative
+281,Cameriere che sparisce,"Ordinato un caffè e mai portato, conto richiesto tre volte senza risposta.",F&B,negative
+282,Cucina vecchio stile senza aggiornamenti,"Menu fermo agli anni ottanta, nulla di creativo o interessante per il palato moderno.",F&B,negative
+283,Camera sporchissima,"Lenzuola con macchie sospette, peli nel bagno, pavimento appiccicoso, inaccettabile.",Housekeeping,negative
+284,Pulizia scadente,"Non puliscono sotto i mobili da mesi, polvere ovunque, camera mai igienizzata davvero.",Housekeeping,negative
+285,Stanza con odore di chiuso,"Muffa evidente nell armadio, tappeti umidi, aria irrespirabile a finestre chiuse.",Housekeeping,negative
+286,Servizio ai piani inesistente,"Cameriera vista una volta in cinque giorni, pulizie saltate e asciugamani mai cambiati.",Housekeeping,negative
+287,Biancheria sporca,"Lenzuola con macchie gialle, federe con capelli, asciugamani che puzzano di umido.",Housekeeping,negative
+288,Bagno disgustoso,"Muffa nella doccia, rubinetti incrostati di calcare, tappeto del bagno umido e puzzolente.",Housekeeping,negative
+289,Cameriera ai piani maleducata,Ha battuto forte la porta e ha borbottato insulti quando ha visto la stanza in disordine.,Housekeeping,negative
+290,Pulizie fatte male,"Aspirapolvere passato a metà, polvere sui ripiani, bagno sciacquato alla buona.",Housekeeping,negative
+291,Stanza mai veramente pulita,"In cinque giorni hanno solo rifatto i letti, zero pulizia profonda.",Housekeeping,negative
+292,Cambio biancheria dimenticato,"Chiesto più volte il cambio delle lenzuola, mai avvenuto, disinteresse totale dello staff.",Housekeeping,negative
+293,Muffa visibile in bagno,"Angoli della doccia neri di muffa, condizione igienica preoccupante.",Housekeeping,negative
+294,Bagno con calcare ovunque,"Sanitari gialli dal calcare, rubinetti biancastri, pulizia da saltare completamente.",Housekeeping,negative
+295,Moquette macchiata e puzzolente,"Macchie vecchie mai trattate, odore acidulo, mai sottoposta a pulizia profonda.",Housekeeping,negative
+296,Stanza con polvere ovunque,"Ripiani tavolini televisore tutti coperti di polvere, evidente trascuratezza.",Housekeeping,negative
+297,Asciugamani sporchi e maleodoranti,"Profumo di chiuso e umidità, consistenza rigida come cartone.",Housekeeping,negative
+298,Pulizie approssimative,"Spolverata volante al mattino e basta, cambio lenzuola zero, bagno sciacquato male.",Housekeeping,negative
+299,Federe con capelli altrui,"Appena disfatto il letto abbiamo trovato capelli lunghi non nostri, schifo totale.",Housekeeping,negative
+300,Governante scortese,"Signora che borbottava a ogni richiesta, atteggiamento passivo aggressivo continuo.",Housekeeping,negative
+301,Bagno con zampironi morti,"Ho trovato insetti secchi sul pavimento, zone meno frequentate mai pulite.",Housekeeping,negative
+302,Pulizie rumorose di mattina presto,"Alle sette del mattino cameriere urlanti nei corridoi, impossibile dormire.",Housekeeping,negative
+303,Tappeti non aspirati,"Si vedevano le briciole degli ospiti precedenti, pulizia profonda dimenticata.",Housekeeping,negative
+304,Bagno condiviso con blatte,"Scarafaggio uscito dallo scarico del lavandino, abbiamo traslocato stanza subito.",Housekeeping,negative
+305,Materasso sospetto,"Macchie gialle visibili una volta tolte le lenzuola, igiene insopportabile.",Housekeeping,negative
+306,Stanza che profuma di fumo stantio,"Residuo di ospiti che hanno fumato dentro, filtro aria evidentemente mai pulito.",Housekeeping,negative
+307,Cuscini sporchi,"Rimosse le federe per controllare, cuscini neri di sudore, mai lavati davvero.",Housekeeping,negative
+308,Camere non aerate,"Non aprono mai le finestre durante le pulizie, aria chiusa per giorni.",Housekeeping,negative
+309,Bagno con capelli nello scarico,"Residui degli ospiti precedenti nel doccino, standard igienico zero.",Housekeeping,negative
+310,Servizio lavanderia lentissimo,"Chiesto lavaggio urgente, riconsegnato dopo tre giorni, inutile per un soggiorno breve.",Housekeeping,negative
+311,Pulizie dimenticate nel weekend,"Sabato e domenica la cameriera non è proprio passata, zero informazione preventiva.",Housekeeping,negative
+312,Stanza con polvere sulle lampade,"Lampadari coperti di polvere visibile, evidente trascuratezza delle pulizie.",Housekeeping,negative
+313,Bagno con piastrelle rotte e non sostituite,"Stanza vecchia dove nessuno ha mai fatto manutenzione, sporcizia incrostata.",Housekeeping,negative
+314,Asciugamani contati al centimetro,"Due asciugamani piccoli per due persone per un intero soggiorno, ridicolo.",Housekeeping,negative
+315,Pulizia solo di facciata,"Superfici visibili pulite, angoli e sotto i mobili mai toccati, lavoro superficiale.",Housekeeping,negative
+316,Cambio biancheria settimanale al massimo,"Una volta a settimana? Non al Ritz non funziona così, vergognoso per un hotel a quattro stelle.",Housekeeping,negative
+317,Servizio ai piani ostile,Cameriera entrata senza bussare e scocciata per averci trovato in camera.,Housekeeping,negative
+318,Lenzuola strappate,"Bordi tagliati e rammendati malamente, tessuti evidentemente fine vita.",Housekeeping,negative
+319,Camera sporca al check in,"Ancora da pulire dagli ospiti precedenti, rifiuti nel cestino, letto disfatto.",Housekeeping,negative
+320,Bagno puzzolente di scarico,"Odore pungente di fogna dai sanitari, aerazione inesistente.",Housekeeping,negative
+321,Cura del piano zero,"Corridoio con polvere aspirapolvere rotto, segnali evidenti di trascuratezza generale.",Housekeeping,negative
+322,Pulizie invasive,"Cameriera che tocca e sposta le cose personali, mancanza di rispetto totale.",Housekeeping,negative
+323,Sporcizia sotto il letto,"Cartacce e bustine di caramelle dimenticate, chiaramente non pulivano da tempo.",Housekeeping,negative
+324,Piatto di pulizia scarsa,"Minibar con bottiglie sporche appiccicose, evidentemente non lo aprono da mesi.",Housekeeping,negative
+325,Asciugamani mai cambiati,"In sette giorni mai sostituiti, puzzavano di umido e sudore, ridicolo.",Housekeeping,negative
+326,Coperte con peli di animali,"Chiaramente la stanza ha ospitato cani, coperte piene di peli biondi, allergia totale.",Housekeeping,negative
+327,Stanza non igienizzata post covid,"Nulla di sanificato, zero prodotti disinfettanti, solo riordinata alla bell e meglio.",Housekeeping,negative
+328,Bagno puzzolente di chiuso,"Asciugamani umidi mai sostituiti, pavimento sempre bagnato, ricetta perfetta per la muffa.",Housekeeping,negative
+329,Servizio ai piani che ruba,"Mancano dieci euro dal comodino, denunciato alla reception senza risposta, sensazione pessima.",Housekeeping,negative
+330,Stanza stile anni settanta,"Arredo fuori moda ma soprattutto sporco, materassi cigolanti e pulizia inesistente.",Housekeeping,negative
+331,Tende polverose,"Evidente non pulite da mesi, ambiente poco salubre soprattutto per allergici.",Housekeeping,negative
+332,Pavimento appiccicoso,"Qualunque bevanda cadeva non veniva pulita per giorni, zero attenzione.",Housekeeping,negative
+333,Cuscini duri e sporchi,"Sembravano cuscini da caserma, scomodi e non privi di macchie sospette.",Housekeeping,negative
+334,Pulizia settimanale dichiarata quotidiana,"Reception dice pulizie tutti i giorni ma non è vero, tre volte a settimana.",Housekeeping,negative
+335,Cameriera ai piani scordata,"Nessuno è mai venuto a pulire dopo il secondo giorno, richiesta ignorata.",Housekeeping,negative
+336,Bagno con lavandino intasato,"Scarico lento e maleodorante, problema segnalato e mai risolto, vacanza rovinata.",Housekeeping,negative
+337,Lenzuola dal cattivo odore,"Profumo di muffa al posto di detersivo fresco, lavaggio sospetto o assente.",Housekeeping,negative
+338,Pulizie finite ma non iniziate,Stanza giudicata pulita dalla governante ma polvere ovunque evidente.,Housekeeping,negative
+339,Bagno con sporcizia incrostata,"Doccia e scarichi con residui che nessuno ha mai tolto, serve una bomba atomica.",Housekeeping,negative
+340,Servizio di maid inesistente,"Dopo il terzo giorno abbiamo rinunciato a chiedere, semplicemente non c era nessuno.",Housekeeping,negative
+341,Stanza con pessima ventilazione,"Bagno senza finestra e ventola rotta, umidità che creava un bagno turco permanente.",Housekeeping,negative
+342,Asciugamani che sembrano carta vetrata,"Ruvidi e puzzolenti, lavati con prodotti scadenti, danneggiati dal cloro.",Housekeeping,negative
+343,Minibar con prodotti scaduti,"Cioccolato scaduto da sei mesi e soft drink piatti, pulizia della cella zero.",Housekeeping,negative
+344,Stanza con scarafaggi morti,"Pulizie evidentemente saltuarie, insetti trovati sotto il letto in numero preoccupante.",Housekeeping,negative
+345,Biancheria che sembra usata,"Lenzuola con pieghe evidenti e odore di corpo, mai sostituite davvero.",Housekeeping,negative
+346,Pulizie fatte a scorno dell ospite,"Cameriera che sbuffa quando trova la stanza in disordine, atteggiamento inaccettabile.",Housekeeping,negative
+347,Polvere ovunque dopo le pulizie,"Evidentemente un lavoro frettoloso, passata solo la superficie e niente altro.",Housekeeping,negative
+348,Cuscino con macchia sospetta,"Tolta la federa ho trovato macchie gialle evidenti, cuscini mai lavati da mesi.",Housekeeping,negative
+349,Stanza con odore di umido cronico,"Muffa alle pareti dietro al letto, condizione pessima per chi ha problemi respiratori.",Housekeeping,negative
+350,Asciugatura insufficiente bagno,"Sempre bagnato il pavimento perché ventola rotta, pericolo scivolamento continuo.",Housekeeping,negative
+351,Stanza con mobili rotti mai riparati,"Cassetti che non chiudono, sedia traballante, governante ignora i problemi strutturali.",Housekeeping,negative
+352,Check in interminabile,"Un ora e quaranta in coda, reception con una sola persona in alta stagione, assurdo.",Reception,negative
+353,Reception scortese,"Ragazzo della reception maleducato, rispondeva a monosillabi, atteggiamento irritante.",Reception,negative
+354,Personale poco preparato,"Non sapevano darci informazioni base sulla città, hanno mandato noi a cercare su google.",Reception,negative
+355,Prenotazione persa,"Arrivati con conferma ma nessuna stanza, una lotta di trenta minuti per avere camera.",Reception,negative
+356,Check out difficile,"Errore sul conto, discussione di mezz ora per farci togliere voci non dovute.",Reception,negative
+357,Reception disinteressata,"Ragazza dietro al banco che guardava il telefono mentre la coda cresceva, pessimo esempio.",Reception,negative
+358,Receptionist sgarbato,"Tono passivo aggressivo continuo, sembrava infastidito da ogni nostra domanda.",Reception,negative
+359,Attesa infinita per il check in,"Arrivati alle 15 come da regola, stanza pronta alle 18, nessuna scusa offerta.",Reception,negative
+360,Informazioni sbagliate,"Ci hanno indicato un ristorante chiuso da due anni, zero aggiornamento.",Reception,negative
+361,Reception poco presidiata di notte,"Suonato il campanello mezz ora prima che arrivasse qualcuno, in piena notte.",Reception,negative
+362,Upgrade negato senza motivo,"Prenotato junior suite, assegnata standard, motivazione inesistente, lamentela ignorata.",Reception,negative
+363,Receptionist maleducato al telefono,"Risposto malamente per una semplice domanda, toni scortesi ingiustificati.",Reception,negative
+364,Sistema informatico rotto,"Hanno dovuto fare tutto a mano per mezz ora, stanze non assegnate in tempo.",Reception,negative
+365,Staff che non parla inglese,"In un hotel internazionale è imbarazzante, clienti stranieri abbandonati a se stessi.",Reception,negative
+366,Check out con sorprese,"Aggiunte voci non concordate, costretti a discutere venti minuti per rimuovere costi fantasma.",Reception,negative
+367,Reception chiusa di notte,"Dalle 23 alle 7 nessuno, chiavi perse nessun aiuto fino al mattino, inaccettabile.",Reception,negative
+368,Prenotazione doppia,"Hanno assegnato la stessa stanza a noi e ad un altra coppia, imbarazzo totale al check in.",Reception,negative
+369,Navetta aeroporto mai arrivata,"Ordinata dalla reception, noi abbiamo aspettato un ora e mezza prima di prendere taxi.",Reception,negative
+370,Errori continui sulla fattura,"Ogni voce sbagliata o doppia, abbiamo controllato tutto con la lente, fastidioso.",Reception,negative
+371,Personale reception senza competenze,"Sembrava la loro prima giornata, ogni operazione faticosa e lentissima.",Reception,negative
+372,Informazioni contraddittorie,"Ogni persona diceva cose diverse, zero coordinamento interno, confusione totale.",Reception,negative
+373,Cortesia zero,"Nessun sorriso, nessun benvenuto, trattamento da numero e non da ospite.",Reception,negative
+374,Richieste ignorate,"Chiesto un altro cuscino tre volte, mai arrivato, stessa cosa per il ferro da stiro.",Reception,negative
+375,Check in discriminatorio,"Hanno fatto attendere noi mentre servivano altri arrivati dopo, sensazione sgradevole.",Reception,negative
+376,Reception che non risponde al telefono,"Chiamato venti volte per info, sempre occupato, impossibile parlare con qualcuno.",Reception,negative
+377,Staff maleducato con clienti stranieri,"Rispondeva con tono insofferente a chi non capiva l italiano, vergognoso.",Reception,negative
+378,Prenotazione camera per disabili dimenticata,"Arrivati con sedia a rotelle, stanza senza accessibilità, zero soluzioni immediate.",Reception,negative
+379,Receptionist freddo e distante,"Nessun contatto umano, robot programmato male, nessuna vera accoglienza.",Reception,negative
+380,Servizio di sveglia saltato,"Chiesta sveglia per le 6, nessuna chiamata, persa la coincidenza aerea.",Reception,negative
+381,Deposito bagagli rifiutato,"Dopo check out non volevano tenere le valigie per poche ore, zero flessibilità.",Reception,negative
+382,Check out anticipato negato,"Volevamo partire un giorno prima, hanno comunque addebitato tutto il soggiorno, scorretto.",Reception,negative
+383,Reception caotica,"Telefoni che squillano, nessuno che risponde, clienti arrabbiati in coda, gestione pessima.",Reception,negative
+384,Prenotazione online rifiutata,"Avevamo prepagato ma dicevano di non avere la prenotazione, difficoltà di risoluzione.",Reception,negative
+385,Staff che non conosce i prezzi,"Dicevano cifre diverse per lo stesso servizio, grande confusione organizzativa.",Reception,negative
+386,Ragazzo delle valigie assente,"Dovuto portare tutte le valigie in camera da soli, servizio promesso non fornito.",Reception,negative
+387,Receptionist supponente,"Guardava dall alto in basso, faceva domande come un esame, atteggiamento offensivo.",Reception,negative
+388,Problemi di connessione internet,"WiFi rotto, reception incapace di spiegarci come connettersi alla rete alternativa.",Reception,negative
+389,Cambio stanza rifiutato ingiustamente,"Stanza rumorosa, chiesto cambio, rifiutato senza motivo valido, notti insonni.",Reception,negative
+390,Errori nelle date,"Ci hanno dato stanza per una sola notte invece di tre, altra lotta per sistemare.",Reception,negative
+391,Servizio di concierge inesistente,"Non sapevano prenotare nemmeno un ristorante, zero utilità del servizio reclamizzato.",Reception,negative
+392,Reception maleducata con bambini,"Trattavano i piccoli come disturbatori, nessuna empatia familiare, atteggiamento gelido.",Reception,negative
+393,Check in rifiutato ingiustamente,"Avevamo prepagato ma discussione su metodo pagamento, imbarazzo e fastidio.",Reception,negative
+394,Staff che fa mobbing ai colleghi,"Tra loro si trattavano male davanti a noi, clima di lavoro pessimo e visibile.",Reception,negative
+395,Servizio informazioni inutile,"Brochure vecchie di dieci anni, nessun consiglio valido, bisogna arrangiarsi da soli.",Reception,negative
+396,Ospiti trattati come bancomat,"Interessano solo i soldi, zero attenzione all ospitalità, fredda meccanicità.",Reception,negative
+397,Receptionist che fuma dietro al banco,"Odore di sigaretta alla reception, professionalità zero, non si può nemmeno avvicinarsi.",Reception,negative
+398,Problema risolto malamente,"Hanno chiuso l incidente addebitandolo a noi invece di risolvere, totale mancanza di accountability.",Reception,negative
+399,Stanza diversa dalla prenotazione,"Prenotato camera con vista mare, assegnata vista parcheggio, senza sostituzione offerta.",Reception,negative
+400,Check in oltre mezzanotte,"Camera pronta solo a mezzanotte nonostante arrivo delle 22, stanchi e affamati senza alternative.",Reception,negative
+401,Receptionist al cellulare,"Parlava al telefono privato mentre i clienti aspettavano in coda, inaccettabile.",Reception,negative
+402,Procedure burocratiche eccessive,"Modulo di dodici pagine con domande inutili, come se fossimo in questura.",Reception,negative
+403,Deposito cauzionale esagerato,"Mille euro di cauzione, bloccati sulla carta per giorni dopo la partenza.",Reception,negative
+404,Staff che risponde in modo sgarbato ai reclami,"Ogni lamentela accolta con sufficienza, come se fossimo noi il problema.",Reception,negative
+405,Mancanza di comunicazione interna,"Cambi di turno senza passaggio consegne, ogni mattina dovevamo ripetere le richieste.",Reception,negative
+406,Portineria notturna dormiente,"Bussato alle tre di notte per problema tecnico, portiere scoperto a russare sul divano.",Reception,negative
+407,Prezzi del parcheggio a sorpresa,"Non menzionato in prenotazione, al check out venti euro al giorno in più, scorretto.",Reception,negative
+408,Sistema prenotazioni confuso,"Hanno cambiato tre volte la stanza in una settimana per errori loro, disagi continui.",Reception,negative
+409,Carta di credito addebitata due volte,"Errore amministrativo, soluzione lenta, recuperato il denaro solo dopo reclamo scritto.",Reception,negative
+410,Atteggiamento freddo del direttore,"Nessuna empatia davanti a problemi concreti, scudo dietro il regolamento.",Reception,negative
+411,Staff ostile verso i reclami legittimi,"Faccia di marmo davanti a problemi reali, zero riconoscimento degli errori dell hotel.",Reception,negative
+412,Richiesta di silenzio ignorata,"Vicini rumorosi, reception chiamata tre volte, nessun intervento, notti da incubo.",Reception,negative
+413,Check in con attesa in piedi,"Nessun posto dove sedersi durante la coda di trenta minuti, anziani in difficoltà.",Reception,negative
+414,Accoglienza per stranieri inadeguata,"Non sanno rispondere a domande su mezzi pubblici e trasporti turistici, zero preparazione.",Reception,negative
+415,Informazioni inventate,"Indicato un ristorante inesistente, ci ha fatti perdere un ora cercando l indirizzo.",Reception,negative
+416,Reception freddissima al primo arrivo,"Ci siamo sentiti un peso dal primo istante, sensazione sgradevole durata tutto il soggiorno.",Reception,negative
+417,Prenotato con la miglior tariffa rifiutata,"Prezzi online diversi da quelli del banco, discussione inutile con manager supponente.",Reception,negative
+418,Receptionist dominante,"Comandava i clienti invece di servirli, atteggiamento da caporale anziché accoglienza.",Reception,negative
+419,Reception indifferente alle emergenze,"Perso il passaporto, reazione indifferente, dovuti noi chiamare l ambasciata.",Reception,negative
+420,Staff che parla male degli ospiti,"Sentito commenti sarcastici sulla nostra stanza, professionalità al minimo storico.",Reception,negative
+421,Check out senza ricevuta,"Non volevano fornire ricevuta dettagliata, difficoltà a rimborsare tramite ufficio trasferte.",Reception,negative
+422,Colazione abbondante ma fredda,"Grande varietà di proposte e attenzione alle intolleranze, peccato che il buffet fosse tiepido al mattino presto, cornetti raffreddati e caffè quasi freddo.",F&B,negative
+423,Cena con luci e ombre,"Antipasti deliziosi e vino ottimo, ma il secondo è arrivato in ritardo e la cottura della carne non era corretta, sopra fatta sotto cruda.",F&B,negative
+424,Ottimo chef servizio pessimo,"Piatti davvero ricercati e ben presentati, peccato per camerieri sbrigativi che non sapevano spiegare il menu e sbagliavano gli ordini.",F&B,positive
+425,Buffet ricco ma disorganizzato,"Ampia scelta di alimenti e dolci ma gestione caotica, file lunghe e vassoi non sempre rinnovati, peccato perché il cibo c era.",F&B,negative
+426,Pizza buona pane scadente,"La pizza napoletana dell hotel era davvero ottima, peccato che il pane servito a cena fosse raffermo e industriale, scelte contrastanti.",F&B,positive
+427,Cameriera simpatica piatti tristi,"Signora che lavorava con il sorriso vero, purtroppo i piatti che portava erano freddi e insipidi, peccato per l impegno personale.",F&B,negative
+428,Qualità vini alta piatti bassi,"Cantina davvero notevole, sommelier preparato, peccato che la cucina non fosse all altezza, abbinamenti vino ottimi su cibo mediocre.",F&B,negative
+429,Chef pasticcere eccellente ma cucina mediocre,"I dolci erano i migliori mai mangiati, ma primi e secondi deludenti, sembrano due ristoranti diversi in uno.",F&B,positive
+430,Colazione ricca attesa infinita,"Tantissima scelta al buffet, ma il caffè doveva essere richiesto al tavolo e arrivava dopo venti minuti, esperienza così viziata.",F&B,negative
+431,Bella location cibo sotto la media,"Sala ristorante splendida con vista mare ma piatti deludenti, ci si aspetterebbe più attenzione alla qualità vista la cornice.",F&B,negative
+432,Buon pesce fresco ma cottura sbagliata,"Materia prima ottima, si vedeva, peccato per chef che l ha cotto troppo rendendolo gommoso, occasione mancata.",F&B,negative
+433,Cena creativa con errori,"Idee del menu interessanti e originali, peccato per sapori non sempre bilanciati, alcuni piatti vittime della sperimentazione.",F&B,positive
+434,Antipasti squisiti secondi scarsi,"Primissima parte della cena spettacolare, poi calo verticale, come se avessero due cucine diverse.",F&B,positive
+435,Ristorante curato prezzi eccessivi,"Ambiente elegante e servizio ok ma conto da capogiro per la qualità offerta, rapporto qualità prezzo inaccettabile.",F&B,negative
+436,Carta dei vini eccellente servizio improvvisato,"Bottiglie selezionate con cura ma sommelier inesperto, consigli azzardati e bicchieri sbagliati, qualità vanificata.",F&B,negative
+437,Sala bar accogliente cocktail mediocri,"Bar interno molto bello ma barman alle prime armi, drink sbilanciati e presentazione zero, peccato dell ambiente sprecato.",F&B,negative
+438,Pane fatto in casa burro industriale,"Pane splendido e fragrante accompagnato da porzioni di burro in bustina da supermercato, incoerenza evidente.",F&B,positive
+439,Cucina rapida ma senza cuore,"Piatti che arrivano velocemente ma evidentemente pre-cotti e assemblati al volo, zero cura artigianale.",F&B,negative
+440,Sapori buoni servizio freddo,"Cameriere professionale ma glaciale, mai un sorriso, peccato perché in cucina sanno cosa fanno, contrasto evidente.",F&B,positive
+441,Ottimo caffè pessima colazione,"L espresso al banco era eccellente, peccato per tutto il resto del buffet che era scadente e vecchio di ore.",F&B,negative
+442,Stanza pulita ma asciugamani scarsi,"Bagno sempre splendente ma asciugamani sempre insufficienti per due persone, dovevamo sempre chiederne altri.",Housekeeping,positive
+443,Cameriera gentile pulizie approssimative,"La ragazza che puliva era adorabile e sorridente ma le pulizie non erano mai davvero a fondo, angoli e sotto i mobili dimenticati.",Housekeeping,negative
+444,Biancheria fresca moquette sporca,"Lenzuola sempre profumate ma moquette evidentemente macchiata da anni, doccia spettacolare ma tappeto vecchio sporco.",Housekeeping,positive
+445,Stanza ordinata ma polvere sui mobili,"Tutto in ordine ogni giorno ma spolverata frettolosa, superfici alte coperte di polvere visibile, cura parziale.",Housekeeping,negative
+446,Pulizia ok ma bagno con muffa,"Stanza in ordine tutti i giorni ma angoli del bagno con muffa evidente, problema strutturale che nessuno affronta.",Housekeeping,negative
+447,Cambio biancheria puntuale cuscini sporchi,"Lenzuola cambiate come d accordo ma sotto le federe i cuscini erano macchiati, pulizia a metà.",Housekeeping,negative
+448,Servizio ai piani rapido ma superficiale,"Cameriera efficiente nei tempi ma pulizia solo superficiale, giustificato dall orario ma non dall assenza di qualità.",Housekeeping,negative
+449,Pulizie buone ma odore di chiuso,"Stanze tenute pulite ma evidentemente mai aerate, rimaneva un odore che nessun detergente riusciva a coprire.",Housekeeping,negative
+450,Bagno profumato asciugamani ruvidi,"Sanitari splendenti e pulizia ok ma asciugamani come carta vetrata, lavati con prodotti scadenti, sensazione sulla pelle terribile.",Housekeeping,negative
+451,Governante simpatica stanza non perfetta,"La signora che si occupava del piano era adorabile ma la pulizia della stanza lasciava a desiderare nei dettagli, intenzioni buone risultato mediocre.",Housekeeping,negative
+452,Ordine al rientro ma finestre mai pulite,"Tutto sempre in ordine ma vetri visibilmente sporchi e mai lavati durante il soggiorno, dettaglio tralasciato.",Housekeeping,negative
+453,Stanza spolverata ma letto sgualcito,"Ripiani puliti ma il letto veniva rifatto male, coperte storte, come fatto da chi non ci credeva veramente.",Housekeeping,negative
+454,Cameriera silenziosa ma pulizie saltate,"Ragazza discreta e gentile ma per due giorni non è proprio venuta, stanza sporca sporca in accumulo.",Housekeeping,negative
+455,Asciugamani ok ma lenzuola macchiate,"Bagno rifornito ma nel letto abbiamo trovato macchie gialle sospette, standard di cambio biancheria non rispettato.",Housekeeping,negative
+456,Pulizie regolari ma nulla di extra,"Fanno il minimo indispensabile ma con costanza, niente cura del dettaglio, ma nemmeno disastri visibili, servizio medio.",Housekeeping,positive
+457,Stanza fresca ma bagno non disinfettato,"Ambiente generale pulito ma fughe delle piastrelle in bagno nere, disinfezione profonda mai eseguita davvero.",Housekeeping,negative
+458,Ordine in superficie sporcizia in profondità,"Aperti i cassetti del comodino, erano pieni di briciole e polvere vecchia, evidenti lacune nella pulizia approfondita.",Housekeeping,negative
+459,Pulizia degli spazi buona bagno male,"Stanza principale impeccabile ma bagno trascurato, come se due persone diverse se ne occupassero e una facesse male il suo lavoro.",Housekeeping,negative
+460,Cameriera solare pulizia pigra,"Sempre un sorriso ma lavoro non fatto come si deve, peccato perché l umanità c era ma la professionalità poco.",Housekeeping,negative
+461,Stanza in ordine ma odore sospetto,"Apparentemente pulito ma c era un odore difficile da definire che persisteva, forse dai condotti dell aria.",Housekeeping,negative
+462,Check in lento ma staff gentile,"Attesa di quasi un ora al banco ma il personale è stato sempre sorridente e apologetico, umanità ma inefficienza.",Reception,negative
+463,Reception bella ma personale inesperto,Banco reception di design con divani comodi ma ragazzi appena assunti che non sapevano rispondere a domande base.,Reception,negative
+464,Informazioni dettagliate ma cortesia zero,"Ci hanno dato mappe e consigli precisi ma con tono freddo e distaccato, contenuti ottimi esperienza umana pessima.",Reception,negative
+465,Check in veloce ma errori sul conto,"Assegnazione stanza in tempi record ma alla fine sorprese sul totale da pagare, fretta a scapito della precisione.",Reception,negative
+466,Personale multilingue ma scortese,"Parlavano inglese francese e tedesco perfettamente ma con pazienza pari a zero, competenza linguistica senza competenza umana.",Reception,negative
+467,Reception sempre aperta ma mai efficace,"Presidio 24 ore ma ogni richiesta trovava risposte contraddittorie, disponibilità senza competenza.",Reception,negative
+468,Accoglienza calorosa poi disorganizzazione,"Primo impatto splendido al check in, poi tutto si è sgretolato nei giorni successivi con errori e ritardi.",Reception,negative
+469,Check in sotto la pioggia,"Ci hanno fatto aspettare fuori perché la hall era piena, gentilezza dei saluti non compensa il trattamento.",Reception,negative
+470,Receptionist gentile sistema rotto,"Ragazza cortese incastrata in un gestionale che non funzionava, tante scuse nessuna soluzione rapida.",Reception,negative
+471,Sorridenti ma dicono no a tutto,"Personale sempre con il sorriso ma qualunque richiesta trovava un no categorico, gentilezza inutile all atto pratico.",Reception,negative
+472,Check in con welcome drink ma stanza sbagliata,"Accoglienza da cinque stelle con bollicine ma poi camera diversa dalla prenotata, contrasto evidente.",Reception,negative
+473,Receptionist preparato ma freddo,"Sapeva tutto della zona ma lo raccontava come un libro stampato, zero passione zero contatto umano.",Reception,positive
+474,Attesa lunga ma scuse genuine,"Trenta minuti in coda ma il ragazzo al banco è stato onesto e ha offerto un caffè mentre aspettavamo, modo elegante di gestire un problema.",Reception,positive
+475,Check out rapido ma senza spiegazioni,"Procedura veloce senza però spiegare voci oscure sul conto, velocità come alibi alla poca trasparenza.",Reception,negative
+476,Accoglienza media senza errori gravi,"Nulla di memorabile ma nulla di terribile, servizio standard senza calore né difetti particolari.",Reception,positive
+477,Personale gentile ma poco risolutivo,"Tutti sorridenti ma nessuno capace di risolvere il problema del riscaldamento rotto, empatia senza efficacia.",Reception,negative
+478,Reception poco presidiata ma sempre cortese,"Quando c era il ragazzo era perfetto ma spesso scoperta per minuti interminabili, organizzazione debole ma persone buone.",Reception,negative
+479,Check in con upgrade ma servizio successivo scadente,"Arrivo con camera migliorata gratis ma poi tutto il resto del soggiorno sotto le aspettative, bella partenza pessimo finale.",Reception,negative
+480,Informazioni aggiornate staff pigro,Ci hanno dato dritte perfette sulla zona ma per qualsiasi richiesta in hotel erano lenti e svogliati.,Reception,negative
+481,Arrivo accolti a braccia aperte poi dimenticati,"Benvenuto splendido ma nei giorni successivi zero attenzione, gentilezza di facciata senza sostanza.",Reception,negative
+482,Colazione servita da staff reception,"Al mattino i camerieri erano pochi e la reception aiutava a servire caffè, caos in sala e ordine preso sbagliato, il problema era la cucina non organizzata.",F&B,negative
+483,Cena disorganizzata con problemi al pagamento,"Ristorante con servizio lento e piatti freddi, poi alla reception ci hanno anche fatto aspettare per pagare la cena in camera, ma il cuore del problema è al ristorante.",F&B,negative
+484,Buffet caotico staff confusionario,"Durante la colazione staff del ristorante misto con personale pulizie ai piani che passava a rifornire, scene di confusione ma la qualità dei piatti rimaneva scarsa.",F&B,negative
+485,Room service lento e con errori di stanza,"Ordinato da cena in camera, arrivato dopo un ora con piatti sbagliati, la reception prometteva soluzioni ma il vero problema era la cucina che confondeva gli ordini.",F&B,negative
+486,Colazione in camera ritardata dalla governante,"Chiesto breakfast in camera, la cameriera ai piani non aveva riferito bene al ristorante, ma piatti freddi e caffè allungato sono responsabilità della cucina.",F&B,negative
+487,Cena con attesa per il vino,"Vini portati con grande ritardo dal sommelier sostituito dal portiere perché lo staff era sottodimensionato, problema in sala ristorante.",F&B,negative
+488,Ristorante con menu sbagliato in camera,"Carta dei piatti lasciata in camera dalla cameriera ai piani con informazioni vecchie, ma quando ordinato tutto è arrivato sbagliato e la qualità era bassa.",F&B,negative
+489,Bar chiuso prima dell orario indicato dalla reception,Informazione sbagliata al check in ma la vera delusione è stata trovare il bar chiuso e senza spiegazioni dal personale di sala.,F&B,negative
+490,Colazione contaminata nonostante allergia segnalata al check in,"Avvisati al check in della reception dell allergia al glutine ma in cucina non l hanno rispettata, errore della brigata che non comunica con gli altri reparti.",F&B,negative
+491,Brunch della domenica con camerieri rubati dalla reception,"Ragazze della reception mandate a servire al brunch per mancanza di staff sala, risultato un disastro di ordini sbagliati e piatti freddi, responsabilità della ristorazione.",F&B,negative
+492,Cameriera che non sa spiegare gli orari,"Signora delle pulizie gentile ma non sapeva dirci gli orari del ristorante, non competenza sua, problema di comunicazione interna ma il nodo è la pulizia saltata.",Housekeeping,negative
+493,Pulizie saltate per assenza alla reception,"Reception doveva comunicare al piano la nostra richiesta di pulizia pomeridiana, non l hanno fatto, ma è la cameriera ai piani che doveva accorgersene e venire comunque.",Housekeeping,negative
+494,Asciugamani non portati nonostante chiamata al centralino,"Chiamato la reception per asciugamani extra, passato la richiesta al piano, governante non è mai venuta, problema del servizio pulizie che non risponde.",Housekeeping,negative
+495,Camera non pronta al check in,"Reception incolpa le pulizie, pulizie incolpano la reception per aver accolto prima del tempo, ma la stanza doveva essere pulita alle 14, ritardo del servizio ai piani.",Housekeeping,negative
+496,Lenzuola non cambiate nonostante cartello,"Lasciato cartello per cambio biancheria, cameriera ai piani non ha seguito la procedura, reception non c entra nulla con il problema operativo.",Housekeeping,negative
+497,Bagno non pulito dopo lamentela in reception,"Segnalata alla reception la situazione, hanno detto che avrebbero avvisato il piano, ma il problema irrisolto è la pulizia fatta male dalla governante.",Housekeeping,negative
+498,Cambio stanza per muffa in bagno,"Reception ha organizzato il cambio in modo efficiente ma il problema originale era di pulizie e manutenzione dei locali, nodo del servizio ai piani.",Housekeeping,negative
+499,Rumori notturni ma vera causa pulizie mattutine,"Reception dice che i rumori sono solo notturni, in realtà il problema sono le cameriere che iniziano alle sei con i carrelli rumorosi, competenza housekeeping.",Housekeeping,negative
+500,Richiesta di pulizia straordinaria ignorata,"Reception conferma richiesta ma per tre giorni nessuno viene a fare la pulizia extra, responsabilità del servizio ai piani che ignora le richieste.",Housekeeping,negative
+501,Stanza sporca al check in dopo promessa reception,"Al check in la reception assicurava stanza pronta e impeccabile, invece stanza con letto disfatto e polvere, colpa delle pulizie non eseguite prima della consegna.",Housekeeping,negative
+502,Pulizie rumorose ma reception non interviene,"Cameriere ai piani rumorose alle sei, chiamata reception tre volte, nessuna risposta né intervento, problema di gestione da parte del front office.",Reception,negative
+503,Check in ritardato incolpato sulle pulizie,"Reception incolpa il servizio ai piani ma la realtà è che non avevano comunicato correttamente con le governanti, errore organizzativo della reception.",Reception,negative
+504,Ristorante chiuso senza avviso alla reception,"Ristorante dell hotel chiuso per evento privato ma nessuno alla reception ci aveva avvisato, problema di comunicazione del front desk.",Reception,negative
+505,Colazione orari sbagliati sul depliant in camera,"Depliant della reception con orari colazione errati, arrivati troppo tardi e trovato tutto chiuso, informazione sbagliata diffusa dal front office.",Reception,negative
+506,Conto cena sbagliato e non corretto alla partenza,"Ristorante aveva fatto errore ma reception al check out non ha verificato correttamente, responsabilità dell amministrazione front office.",Reception,negative
+507,Sveglia non arrivata dopo promessa del portiere,"Chiesto sveglia alle sei di mattina, nessuna chiamata, persa coincidenza, il problema è della reception che dimentica le richieste.",Reception,negative
+508,Prenotazione ristorante persa dalla reception,"Receptionist aveva preso nota di prenotazione al ristorante interno ma non l ha trasmessa, tavolo non pronto, problema organizzativo della reception.",Reception,negative
+509,Spiegazioni sulla lavanderia confuse,"Chiesto informazioni sul servizio lavanderia alla reception, risposte contraddittorie tra chi era al banco, confusione del front office più che problema dei piani.",Reception,negative
+510,Cambio camera rifiutato nonostante disponibilità,"Stanze libere visibili al piano ma reception dice che non può spostarci, gestione delle prenotazioni rigida del front desk.",Reception,negative
+511,Deposito bagagli rifiutato dalla reception,"Chiesto di lasciare valigie per qualche ora dopo check out, rifiutato senza motivo, mancanza di flessibilità della reception.",Reception,negative
